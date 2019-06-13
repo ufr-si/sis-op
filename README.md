@@ -4,18 +4,6 @@ Este é um exemplo simples de uma simulação de um algoritmo de escalonamento d
 
 O objetivo é mostrar algumas estruturas que podem ser usadas para entender o que pode ser simulado. Vocês não precisam seguir isso a fundo, é só uma direção. Também é parte da avaliação vocês entenderem o que é relevante para simular no algoritmo, então entendam esse código como um uma ajuda, não como um "tem que ser assim".
 
-
-
-Nessa simulação, foram simulados: 
-
-u#Olá mundo
-
-Este é um exemplo simples de uma simulação de um algoritmo de escalonamento de processos. 
-
-O objetivo é mostrar algumas estruturas que podem ser usadas para entender o que pode ser simulado. Vocês não precisam seguir isso a fundo, é só uma direção. Também é parte da avaliação vocês entenderem o que é relevante para simular no algoritmo, então entendam esse código como um uma ajuda, não como um "tem que ser assim".
-
-
-
 Nessa simulação, foram simulados: 
 
 - uma execução de processos, com processos entrando em um determinado tempo, com algum tempo de execução;
